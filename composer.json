@@ -1,0 +1,15 @@
+{
+  "name": "cronfy/import",
+  "license": "MIT",
+  "description": "Import processors",
+
+  "require": {
+    "php": ">=5.6.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "cronfy\\import\\": "src/"
+    }
+  }
+}
